@@ -114,4 +114,3 @@ Opened the HTML report in a browser to review it.
 
 ---
 
-*Lab guide and screenshots from the Level Effect SOC100-1 course (Windows Enterprise Administration). Documentation written by me. Lab passwords are replaced with `<password>`.*
