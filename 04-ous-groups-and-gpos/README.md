@@ -163,4 +163,4 @@ RDP in as `goodda`, run `runas /user:goodcorp\gooduser cmd` and `gpupdate /force
 
 ---
 
-*Lab guide and screenshots from the Level Effect SOC100-1 course (Windows Enterprise Administration). Documentation written by me. Lab passwords are replaced with `<password>`.*
+
